@@ -1,0 +1,9 @@
+body {
+  background-image: linear-gradient(to bottom, #f9efa0, #eddc8e, #e2c97c, #d6b66c, #caa35c, #c39355, #bb844f, #b2754a, #a8664b, #9c594d, #8d4e4d, #7c444c);
+}
+
+.navbar {
+  background-image: linear-gradient(to bottom, #7a0000, #770101, #750101, #720202, #700202, #6c0202, #690102, #650102, #5f0102, #590102, #540102, #4e0101);
+}
+
+/*# sourceMappingURL=style.css.map */
